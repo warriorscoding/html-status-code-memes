@@ -1,6 +1,6 @@
 const selectBox = document.querySelector("#selectBox");
 const result = document.querySelector("#result");
-const url = 'HTTP_JSON_DATA_URL';
+const url = 'https://raw.githubusercontent.com/warriorscoding/http-json/main/codes.json';
 
 getCodes();
 
